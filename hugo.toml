@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://grace.lol/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'grace dot lol'
 theme = "terminal"
 [caches]
   [caches.images]
