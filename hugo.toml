@@ -7,6 +7,15 @@ theme = "terminal"
   [caches.images]
     dir = ':cacheDir/images'
 
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "grace.lol"
+
+  [languages.en.params.logo]
+    logoText = "grace.lol"
+    logoHomeLink = "/"
+
 [menu]
   [[menu.main]]
     identifier = "about"
